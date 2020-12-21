@@ -1,6 +1,5 @@
 package com.dk.geektime.dao;
 
-import com.dk.geektime.FooService;
 import com.dk.geektime.exception.RollbackException;
 import org.springframework.aop.framework.AopContext;
 import org.springframework.beans.factory.annotation.Autowired;

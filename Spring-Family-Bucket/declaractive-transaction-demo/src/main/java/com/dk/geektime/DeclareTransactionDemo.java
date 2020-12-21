@@ -1,6 +1,6 @@
-package com.dk.geektime.dao;
+package com.dk.geektime;
 
-import com.dk.geektime.FooService;
+import com.dk.geektime.dao.FooService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;

@@ -1,4 +1,4 @@
-package com.dk.geektime;
+package com.dk.geektime.dao;
 
 import com.dk.geektime.exception.RollbackException;
 
